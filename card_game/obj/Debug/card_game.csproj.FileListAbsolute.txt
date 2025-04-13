@@ -1,0 +1,7 @@
+D:\SecondSemester\OOP\PdTasks\pd8\card_game\bin\Debug\card_game.exe.config
+D:\SecondSemester\OOP\PdTasks\pd8\card_game\bin\Debug\card_game.exe
+D:\SecondSemester\OOP\PdTasks\pd8\card_game\bin\Debug\card_game.pdb
+D:\SecondSemester\OOP\PdTasks\pd8\card_game\obj\Debug\card_game.csproj.AssemblyReference.cache
+D:\SecondSemester\OOP\PdTasks\pd8\card_game\obj\Debug\card_game.csproj.CoreCompileInputs.cache
+D:\SecondSemester\OOP\PdTasks\pd8\card_game\obj\Debug\card_game.exe
+D:\SecondSemester\OOP\PdTasks\pd8\card_game\obj\Debug\card_game.pdb
